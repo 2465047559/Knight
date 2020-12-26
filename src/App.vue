@@ -11,10 +11,6 @@
     components:{
       GoIndex,
     },
-    methods:{
-
-
-    },
   }
 </script>
 
